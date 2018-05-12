@@ -17,7 +17,7 @@ permalink: /atube-catcher-for-android-download
 </script>
 
 <center>
-<img src="https://atubecatcher.plusapkz.com/atubecatcher.jpg" width="320" height="109" alt="atubecatcher" title="atube" /><br />
+<img src="https://atubecatcher.plusapkz.com/atubecatcher.jpg" alt="atubecatcher" title="atube" /><br />
 Name: Atube Catcher APK<br />
 Version: v2018 (Latest)<br />
 Request: Android All Versions <br>
