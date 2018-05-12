@@ -5,12 +5,11 @@ permalink: /contact
 ---
 
 
-### About - Contact
 
 <form action="/">
 
     <label for="fname">E-Mail</label>
-    <input type="text" id="fname" placeholder="E-Postanız" />
+    <input type="text" id="fname" placeholder="E-Mail" />
 
     <label for="subject">Question</label>
     <textarea id="subject" placeholder="Problem or message... We will reach you at your email address." style="height:200px"></textarea>
