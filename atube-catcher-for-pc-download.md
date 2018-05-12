@@ -31,7 +31,7 @@ Size: 18 MB<br />
      data-ad-slot="9116964791"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script><br>
 <a target="_blank" rel="nofollow" href="http://files3.dsnetwb.com/aTube_Catcher.exe">Download</a><br>
   </center>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
