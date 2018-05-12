@@ -32,7 +32,7 @@ Size: 3,9 MB<br />
      data-ad-slot="9116964791"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script><br>
 <a target="_blank" rel="nofollow" href="http://files.dsnetwb.com/atubecatcher.apk">Download</a><br>
   </center>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
