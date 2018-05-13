@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TweakBox Download Latest Version 2018
-permalink: /tweakbox-download
+permalink: /tweakbox-download-ios
 ---
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
