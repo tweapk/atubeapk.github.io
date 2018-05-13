@@ -48,5 +48,5 @@ It is very simple. Here are some of the simple steps that you have to follow.
 <li>Here you will get the option of unknown sources. In addition, you have to disable this option. In order to assure that the applications. However, it will download from the external sources. </li>
 <li>Once disable you have to assess the Tweakbox. However, use the link to download the application. On your phone</li>
 <li>Wait for a few seconds. To assure that the files are completely downloaded. Into your device. </li>
-<li>A shortcut will be available. However, locate it to install the application. In addition, once again you will have to wait for a few seconds.</li></ol>
+<li>A shortcut will be available. However, locate it to install the application. In addition, once again you will have to wait for a few seconds.</li></ul>
 Tweakbox is now installing. On your phone. You can use it the way you like. Without wasting your time, you should consider downloading the Tweakbox. Make sure that you download the installer from a reliable website because there are some fake platforms available that will transfer virus into your computer. We have the best and safest platform from where you can download the APP file within a few seconds. Assure that you enjoy using your phone with complete control. 
